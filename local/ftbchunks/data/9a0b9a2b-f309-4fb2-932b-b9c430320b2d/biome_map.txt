@@ -1,0 +1,9 @@
+#4CA minecraft:dripstone_caves
+#010 minecraft:forest
+#3A0 minecraft:frozen_river
+#286 minecraft:grove
+#2D6 minecraft:meadow
+#3DC minecraft:plains
+#4E5 minecraft:snowy_plains
+#524 minecraft:snowy_slopes
+#340 minecraft:snowy_taiga

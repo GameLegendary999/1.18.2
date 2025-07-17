@@ -1,0 +1,7 @@
+#65A minecraft:end_barrens
+#515 minecraft:end_highlands
+#577 minecraft:end_midlands
+#3DC minecraft:plains
+#255 minecraft:small_end_islands
+#400 minecraft:the_end
+#40F javd:void
